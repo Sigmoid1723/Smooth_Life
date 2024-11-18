@@ -3,8 +3,8 @@
 ## Quickstart
 
 ```console
-$ ./build.sh
-$ ./main
+./build.sh
+./main
 ```
 
 ## References
